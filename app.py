@@ -12,6 +12,12 @@ from werkzeug.security import check_password_hash
 from io import BytesIO
 from PIL import Image
 import base64
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
 
 
 app = Flask(__name__)
@@ -29,8 +35,8 @@ model = YOLO("best14.pt")
 oauth = OAuth(app)
 google = oauth.register(
     name='google',
-    client_id='169186092003-v74d9ohn5jipka1bbj0k4mgpsvu0il3u.apps.googleusercontent.com',  # Client ID
-    client_secret='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',
+    client_id=os.getenv("CLIENT_ID"),
+    client_secret=os.getenv("CLIENT_SECRET"),
     access_token_url='https://accounts.google.com/o/oauth2/token',
     access_token_params=None,
     authorize_url='https://accounts.google.com/o/oauth2/auth',
