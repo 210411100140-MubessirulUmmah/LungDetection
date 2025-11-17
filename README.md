@@ -6,7 +6,7 @@ Aplikasi ini mendukung **multi-workspace**, **Google OAuth login**, serta **peny
 ---
 
 ## 🎬 Demo Aplikasi
-[Pengumuman_Pemberitahuan 10 besar- TIC 2025 ok-1.pdf](https://github.com/user-attachments/files/23578793/Pengumuman_Pemberitahuan.10.besar-.TIC.2025.ok-1.pdf)
+
 
 ## 🚀 Features
 
