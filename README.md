@@ -8,6 +8,10 @@ Aplikasi ini mendukung **multi-workspace**, **Google OAuth login**, serta **peny
 ## 🎬 Demo Aplikasi
 
 
+https://github.com/user-attachments/assets/d28586a5-c238-464c-addd-706358750f56
+
+
+
 
 ## 🚀 Features
 
