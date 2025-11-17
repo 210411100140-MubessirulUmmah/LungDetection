@@ -1,4 +1,4 @@
-# 🫁 Lung CT Scan Detection App (Flask + YOLOv8 + MySQL)
+# Lung CT Scan Detection App (Flask + YOLOv8 + MySQL)
 
 Aplikasi web berbasis **Flask** untuk melakukan **deteksi penyakit paru** dari citra **CT Scan** menggunakan model **YOLOv8**.  
 Aplikasi ini mendukung **multi-workspace**, **Google OAuth login**, serta **penyimpanan hasil deteksi** di database MySQL.
@@ -6,6 +6,8 @@ Aplikasi ini mendukung **multi-workspace**, **Google OAuth login**, serta **peny
 ---
 
 ## 🎬 Demo Aplikasi
+https://github.com/user-attachments/assets/4c5151b6-ddc8-4462-a70f-7c0a4d22097d
+
 
 
 ## 🚀 Features
